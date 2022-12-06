@@ -34,3 +34,5 @@ override.tf.json - файлы с именем override.tf.json
 # Ignore CLI configuration files
 .terraformrc - файлы с именем .terraformrc
 terraform.rc - файлы с именем terraform.rc
+
+new line
